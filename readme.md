@@ -37,7 +37,7 @@ return {
                         "optimize_code",
                         "summarize",
                         "translate"
-                    }
+                    },
                     theme = require("telescope.themes").get_dropdown{}
                 }
             }
